@@ -2,18 +2,19 @@
   width: 500px;
   height: auto;
 }
+
 body {
-  background-color: lightblue; 
+  background-color: lightblue;
   text-align: center;
 }
 
 h1 {
   color: black;
-  font-size: 30px;
+  font-size: 32px;
 }
-
 
 p {
   color: black;
   font-size: 16px;
 }
+
