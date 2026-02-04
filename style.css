@@ -4,17 +4,16 @@
 }
 body {
   background-color: lightblue; 
+  text-align: center;
 }
 
 h {
   color: black;
   font-size: 16px;
-  text-align:center
 }
 
 
 p {
   color: black;
   font-size: 16px;
-  text-align:center
 }
