@@ -1,5 +1,5 @@
 .small-img {
-  width: 150px;
+  width: 500px;
   height: auto;
 }
 body {
@@ -7,9 +7,9 @@ body {
   text-align: center;
 }
 
-h {
+h1 {
   color: black;
-  font-size: 16px;
+  font-size: 30px;
 }
 
 
